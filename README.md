@@ -9,6 +9,8 @@
 [<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/abhirajchatterjee)
 <a href="mailto:abhiraj.chatterjee7365@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
+<br>
+
 <!-- GitHub Stats -->
 <a href="https://github.com/abhiraj-chatterjee">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiraj-chatterjee&hide=stars,prs&count_private=true&show_icons=true&theme=dark" />
