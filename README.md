@@ -11,7 +11,7 @@
 
 <br>
 
-### GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/abhiraj-chatterjee">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiraj-chatterjee&hide=stars,prs&count_private=true&show_icons=true&theme=dark" />
@@ -24,7 +24,7 @@
 </a>-->
 
 
-### Tools and Technologies
+## Tools and Technologies
 <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 
 
