@@ -4,7 +4,7 @@
 
 ### Hello, friends! 👋
 
-My name is Abhiraj Chatterjee (ASCII) and I'm a full-stack web/mobile developer. I'm from India, living in State College, Pennsylvania and currently majoring in Computer Science at Pennsylvania State University. You can find me on: <br><br>
+My name is Abhiraj Chatterjee (ASCII) and I'm a full-stack web/mobile developer. I'm from India, living in State College, Pennsylvania and currently majoring in Computer Science at Pennsylvania State University. You can find me on: <br>
 
 <a href="https://linkedin.com/in/abhirajchatterjee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
