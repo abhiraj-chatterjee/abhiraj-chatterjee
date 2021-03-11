@@ -10,11 +10,11 @@ My name is Abhiraj Chatterjee (ASCII) and I'm a full-stack web/mobile developer.
 
 <!-- GitHub Stats -->
 <a href="https://github.com/abhiraj-chatterjee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiraj-chatterjee&hide=stars,prs&count_private=true&show_icons=true&theme=dark" />
-</a> <br><br>
-<a href="https://github.com/abhiraj-chatterjee">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj-chatterjee&layout=compact&theme=dark" />
-</a> <br> <br>
+</a> 
+<a href="https://github.com/abhiraj-chatterjee">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiraj-chatterjee&hide=stars,prs&count_private=true&show_icons=true&theme=dark" />
+</a>
 <!--<a href="https://github.com/abhiraj-chatterjee">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=abhiraj-chatterjee" />
 </a>-->
