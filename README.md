@@ -1,8 +1,8 @@
 [![Header](https://github.com/abhiraj-chatterjee/abhiraj-chatterjee/blob/main/header.jpeg "Header")]()
 
+<hr>
 
-
-### Hi there 👋
+### Hello, friends! 👋
 
 <!--
 **abhiraj-chatterjee/abhiraj-chatterjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
