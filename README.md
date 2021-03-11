@@ -8,7 +8,13 @@ My name is Abhiraj Chatterjee (ASCII) and I'm a full-stack web/mobile developer.
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/abhirajchatterjee)
 
-[![Abhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiraj-chatterjee)](https://github.com/abhiraj-chatterjee)
+<!-- GitHub Stats -->
+<a href="https://github.com/abhiraj-chatterjee">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiraj-chatterjee" />
+</a>
+<a href="https://github.com/abhiraj-chatterjee">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 <!--
 **abhiraj-chatterjee/abhiraj-chatterjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
