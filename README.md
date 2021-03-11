@@ -11,9 +11,9 @@ My name is Abhiraj Chatterjee (ASCII) and I'm a full-stack web/mobile developer.
 <!-- GitHub Stats -->
 <a href="https://github.com/abhiraj-chatterjee">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiraj-chatterjee" />
-</a>
+</a> <br>
 <a href="https://github.com/abhiraj-chatterjee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
 </a>
 
 <!--
