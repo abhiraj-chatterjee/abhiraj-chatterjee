@@ -1,4 +1,4 @@
-[![Header](https://github.com/abhiraj-chatterjee/abhiraj-chatterjee/blob/main/header.jpeg "Header")]()
+[![Header](https://github.com/abhiraj-chatterjee/abhiraj-chatterjee/blob/main/header.jpeg "Header")](#)
 
 <hr>
 
